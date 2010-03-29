@@ -4,7 +4,7 @@
   
 .amenity[zoom>=15][amenity='hospital'] name {
   text-allow-overlap: false;
-  text-face-name: 'Arial Regular';
+  text-face-name: 'DejaVu Sans Book';
   text-fill: #999;
   text-halo-fill: #fff;
   text-halo-radius: 1;

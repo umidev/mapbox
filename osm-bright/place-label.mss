@@ -4,7 +4,7 @@
 
 .place name {
   text-allow-overlap: false;
-  text-face-name: "Arial Regular";
+  text-face-name: "DejaVu Sans Book";
 }
 
 /* ---- big ----------------------------------------------------------------- */

@@ -77,7 +77,7 @@
 .aero.label[aeroway='aerodrome'][zoom>=12] name {
   text-allow-overlap: false;
   text-dy: 7;
-  text-face-name: 'Arial Regular';
+  text-face-name: 'DejaVu Sans Book';
   text-fill: #888;
   text-halo-fill: #fff;
   text-halo-radius: 1;

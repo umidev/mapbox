@@ -8,7 +8,7 @@ Route Labels for OSM Stock
 .road.label[highway='motorway'][zoom>=11] ref,
 .road.label[highway='trunk'][zoom>=12] ref,
 .road.label[highway='primary'][zoom>=13] ref {
-  shield-face-name: 'Arial Bold';
+  shield-face-name: 'DejaVu Sans Bold';
   shield-fill: #fff;
   shield-size: 9;
   shield-spacing: 500;
@@ -67,7 +67,7 @@ Route Labels for OSM Stock
 .road.label[highway='service'][zoom>=17] name,
 .road.label[highway='unclassified'][zoom>=17] name {
   text-allow-overlap: false;
-  text-face-name: 'Arial Regular';
+  text-face-name: 'DejaVu Sans Book';
   text-fill: #999;
   text-halo-fill: #fff;
   text-halo-radius: 1;
